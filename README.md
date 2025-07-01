@@ -9,7 +9,7 @@ As a Flutter developer, I have created a dynamic and user-friendly recipe sugges
 
 🌟 Whether it's creating intuitive user interfaces, optimizing app performance, or solving complex problems, I'm dedicated to delivering exceptional results that exceed expectations. I thrive in dynamic environments where I can innovate, learn, and grow as a developer.
 
-📫 Let's connect! Feel free to reach out to me via email at arslantariq4546@gmail.com or connect with me on LinkedIn to discuss potential collaborations or just chat about all things Flutter!
+📫 Let's connect! Feel free to reach out to me via email at noormustafa4556@gmail.com or connect with me on LinkedIn to discuss potential collaborations or just chat about all things Flutter!
 ## Screenshots
 <p align="center">
   <img src="https://github.com/Arslan4546/Recipe-App-in-Flutter/blob/main/assets/screenshots/ss1.png" alt="Screenshot 1" width="30%" style="margin: 0 40px;"/>
