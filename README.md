@@ -12,12 +12,12 @@ As a Flutter developer, I have created a dynamic and user-friendly recipe sugges
 📫 Let's connect! Feel free to reach out to me via email at noormustafa4556@gmail.com or connect with me on LinkedIn to discuss potential collaborations or just chat about all things Flutter!
 ## Screenshots
 <p align="center">
-  <img src="https://github.com/Arslan4546/Recipe-App-in-Flutter/blob/main/assets/screenshots/ss1.png" alt="Screenshot 1" width="30%" style="margin: 0 40px;"/>
-  <img src="https://github.com/Arslan4546/Recipe-App-in-Flutter/blob/main/assets/screenshots/ss2.png" alt="Screenshot 2" width="30%" style="margin: 0 40px;"/>
-  <img src="https://github.com/Arslan4546/Recipe-App-in-Flutter/blob/main/assets/screenshots/ss3.png" alt="Screenshot 3" width="30%" style="margin: 0 40px;"/>
-   <img src="https://github.com/Arslan4546/Recipe-App-in-Flutter/blob/main/assets/screenshots/ss4.png" alt="Screenshot 1" width="30%" style="margin: 0 40px;"/>
-  <img src="https://github.com/Arslan4546/Recipe-App-in-Flutter/blob/main/assets/screenshots/ss5.png" alt="Screenshot 2" width="30%" style="margin: 0 40px;"/>
-  <img src="https://github.com/Arslan4546/Recipe-App-in-Flutter/blob/main/assets/screenshots/ss6.png" alt="Screenshot 3" width="30%" style="margin: 0 40px;"/>
+  <img src="https://github.com/NoorMustafa4556/Flutter-Recipe-App/blob/main/assets/screenshots/ss1.png" alt="Screenshot 1" width="30%" style="margin: 0 40px;"/>
+  <img src="https://github.com/NoorMustafa4556/Flutter-Recipe-App/blob/main/assets/screenshots/ss2.png" alt="Screenshot 2" width="30%" style="margin: 0 40px;"/>
+  <img src="https://github.com/NoorMustafa4556/Flutter-Recipe-App/blob/main/assets/screenshots/ss3.png" alt="Screenshot 3" width="30%" style="margin: 0 40px;"/>
+   <img src="https://github.com/NoorMustafa4556/Flutter-Recipe-App/main/assets/screenshots/ss4.png" alt="Screenshot 1" width="30%" style="margin: 0 40px;"/>
+  <img src="https://github.com/NoorMustafa4556/Recipe-App/blob/main/assets/screenshots/ss5.png" alt="Screenshot 2" width="30%" style="margin: 0 40px;"/>
+  <img src="https://github.com/NoorMustafa4556/Flutter-Recipe-App/blob/main/assets/screenshots/ss6.png" alt="Screenshot 3" width="30%" style="margin: 0 40px;"/>
 </p>
 
 
